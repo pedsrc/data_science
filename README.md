@@ -15,7 +15,7 @@
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja meus projetos:
 
 * **Exemplo:** link
 
