@@ -9,15 +9,14 @@
 
 **Background in:** 
 
-**Links:**
+**Link:**
 * [LinkedIn](https://www.linkedin.com/in/pedro-paulo-rodrigues-da-cunha-aa3839137)
-* [Medium]
 
 
-## Projetos:
-Veja meus projetos:
+## Projects:
+See my projects:
 
-* **Exemplo:** link
+* **Analysing the Airbnb data:** https://bityli.com/SjR5k
 
 
 ---
