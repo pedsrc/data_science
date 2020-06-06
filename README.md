@@ -10,7 +10,7 @@
 * [LinkedIn](https://www.linkedin.com/in/pedro-paulo-rodrigues-da-cunha-aa3839137)
 
 ## Projects:
-See my projects:
+Take a look at my projects:
 
 * **Analysing the Airbnb data:** https://bityli.com/SjR5k
 
