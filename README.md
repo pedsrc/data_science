@@ -7,7 +7,6 @@
 # Pedro Cunha
 <sub>*Mechanical Engineer and Data Scientist*</sub>
 
-**Link:**
 * [LinkedIn](https://www.linkedin.com/in/pedro-paulo-rodrigues-da-cunha-aa3839137)
 
 ## Projects:
