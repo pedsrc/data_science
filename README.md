@@ -13,6 +13,7 @@
 Take a look at my projects:
 
 * **Analysing the Airbnb data:** https://bityli.com/SjR5k
+* **Violence analysis in Rio de Janeiro:** https://bityli.com/YsJ95
 
 
 ---
