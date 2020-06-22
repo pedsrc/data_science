@@ -14,7 +14,7 @@ Take a look at my projects:
 
 * **Analysing the Airbnb data:** https://bityli.com/SjR5k
 * **Violence analysis in Rio de Janeiro:** https://bityli.com/YsJ95
-* **COVID-19 analysis:** https://bityli.com/4Q6Ud
+* **COVID-19 data analysis:** https://bityli.com/3RIYy
 
 
 ---
