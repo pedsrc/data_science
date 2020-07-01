@@ -15,7 +15,7 @@ Take a look at my projects:
 * **Analysing the Airbnb data:** https://bityli.com/SjR5k
 * **Violence analysis in Rio de Janeiro:** https://bityli.com/YsJ95
 * **COVID-19 data analysis:** https://bityli.com/rPv8T
-* **Credit Card Fraud Detection using Machine Learning:** https://bityli.com/iqFxV
+* **Credit Card Fraud Detection using Machine Learning:** https://bityli.com/EsEDq
 
 
 ---
